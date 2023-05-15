@@ -17,3 +17,9 @@ Esta aplicación convierte un archivo Excel a CSV y luego a un DataFrame de pand
 ## 4. chat-pdf.ipynb
 
 Este Jupyter Notebook vectoriza archivos PDF para que puedan ser indexados por un agente LLM. Es una herramienta útil para extraer y organizar la información contenida en los documentos PDF.
+
+## Gastos de la API
+
+A continuación, se muestra una captura de pantalla de los gastos incurridos por el uso de la API:
+
+![Gastos de la API](imagen/gastos.png)
